@@ -1,0 +1,14 @@
+Projecto de la asignatura de:
+"Procesamiento Digital de Señales"
+
+Desarrollado en colaboración con: 
+Jenny Rosales, jenny.rosales@unl.edu.ec
+
+Librerias utilizadas:
+opencv 3.4.2
+python 3.7.6
+matplotlib 3.1.1
+ipython 7.11.1
+glob2 0.7
+pillow 7.0.0
+numpy 1.18.1
